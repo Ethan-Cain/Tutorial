@@ -29,11 +29,11 @@ Walkthrough example 1
 
 2418 + 43B = ?
 
-The first step is to start just how one would with decimal addition - adding together the right-most digits of each number, in this case 8 + B. If we consult our list, we see that this is 13.
+* The first step is to start just how one would with decimal addition - adding together the right-most digits of each number, in this case 8 + B. If we consult our list, we see that this is 13.
 
-Next, we move on to adding the next two right-most digits of each number 1 + 3, BUT remember, just like with decimal addition, you must carry the 1 that we have left over from our previous 13. So, it is 1 + 1 + 3 = 5.
+* Next, we move on to adding the next two right-most digits of each number 1 + 3, BUT remember, just like with decimal addition, you must carry the 1 that we have left over from our previous 13. So, it is 1 + 1 + 3 = 5.
 
-Now, we continue on to the next right-most digits of each number A + 4. Consulting our chart we see this is E and since there is no 1 to carry, we can move on.
+* Now, we continue on to the next right-most digits of each number A + 4. Consulting our chart we see this is E and since there is no 1 to carry, we can move on.
 
-Again, go to the next rightmost number(s) in this case it is just a 2, so just carry the two down to your result. Setting all out found numbers next to each other we find that 2A18 + 43B = 2E53. Not too difficult when given the chart!
+* Again, go to the next rightmost number(s) in this case it is just a 2, so just carry the two down to your result. Setting all out found numbers next to each other we find that 2A18 + 43B = 2E53. Not too difficult when given the chart!
 
