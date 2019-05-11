@@ -1,4 +1,4 @@
-# Adding and Subtracting Hexadecimal Numbers
+# Adding Hexadecimal Numbers
 
 [If you are unfamiliar with what hexadecimal is go and learn about the basics here then come back to learn addition and subtraction!](https://en.wikipedia.org/wiki/Hexadecimal)
 
