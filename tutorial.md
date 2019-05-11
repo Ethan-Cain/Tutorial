@@ -25,9 +25,9 @@ To begin with, I'm going to create a table I've seen that is extremely helpful f
  E | E | F | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 1A | 1B | 1C | 1D
  F | F | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 1A | 1B | 1C | 1D | 1E
 
-Walkthrough example 1
+### Walkthrough example 1
 
-2418 + 43B = ?
+2A18 + 43B = ?
 
 * The first step is to start just how one would with decimal addition - adding together the right-most digits of each number, in this case 8 + B. If we consult our list, we see that this is 13.
 
@@ -37,3 +37,23 @@ Walkthrough example 1
 
 * Again, go to the next rightmost number(s) in this case it is just a 2, so just carry the two down to your result. Setting all out found numbers next to each other we find that 2A18 + 43B = 2E53. Not too difficult when given the chart!
 
+### Walkthrough example 2
+
+A more challenging one - 8E45A + 37ED1 = ?
+
+* Begin again with the very right-most digits - A + 1  = B.
+
+* 2nd right-most digits - 5 + D = 12.
+
+* 3rd right-most digits (with the carried 1 from the previous 11) - 1 + 4 + E = 13
+
+* 4th right-most digits (with the carried 1 from the 13) - 1 + 7 + E = 16
+
+* 5th and final right-most digits (another carried 1) - 1 + 8 + 3 = C. Now, if we tally them all up we get C632B!
+
+### Try it for yourself!
+
+4EF + 7A = ?
+
+
+A93D + 4E67 = ?
