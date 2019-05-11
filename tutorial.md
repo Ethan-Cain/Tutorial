@@ -25,6 +25,8 @@ To begin with, I'm going to create a table I've seen that is extremely helpful f
  E | E | F | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 1A | 1B | 1C | 1D
  F | F | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 1A | 1B | 1C | 1D | 1E
 
-Walkthrough example 1:
-    2A18
-__plus 43B__
+Walkthrough example 1
+
+2418
+    
+plus 43B
